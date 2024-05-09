@@ -1,8 +1,5 @@
 <div align="center"> 
-    <img src="gitworld/0x15.gif" width="400" height="400" align="center"/>
-</div>
-<br />
-<div>
+
 <pre>
 #include &#60;stdio.h&#62;
 char main() { 
