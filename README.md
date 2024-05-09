@@ -1,4 +1,4 @@
-<div align="center"> 
+<div> 
 
 <pre>
 #include &#60;stdio.h&#62;
