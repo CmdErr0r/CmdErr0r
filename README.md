@@ -2,7 +2,7 @@
 $${\color{yellow}TIP}$$
 <div align=center>
 
-### $At\ Least\ Hundered\ Years\ Ago\ {\color{red}A\ Developer}\ Was\ Enough\ For\ Make\ All\ The\ Work$
+### $Years\ Ago\ {\color{red}Libraries}\ Was\ Enough\ For\ Make\ All\ The\ Work$
     
 </div>
 
