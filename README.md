@@ -1,12 +1,12 @@
 
-$${\color{red}TIP}$$
+$${\color{yellow}TIP}$$
 <div align=center>
 
 ### $At\ Least\ Hundered\ Years\ Ago\ {\color{red}A\ Developer}\ Was\ Enough\ For\ Make\ All\ The\ Work$
     
 </div>
 
-[info]
+### js
 ```js
 class X {
     constructor() {
@@ -23,8 +23,7 @@ x.storage.add(null, 'Hello, World!');
 console.log(x.storage.val[0]);
 ```
 
-
-## c
+### c
 ```c
 #include <stdio.h>;
 char main() { 
@@ -33,5 +32,6 @@ char main() {
 }
 ```
 
+#
 > [!CAUTION]
-> This Github Page does'nt have any public repos yet just press ```ctrl + shift + w```
+> This Github Page does'nt have any public repos yet. press ``` ctrl shift w ``` for aviod that page
